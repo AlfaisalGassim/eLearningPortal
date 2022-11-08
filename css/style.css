@@ -265,7 +265,7 @@ body{
   position: relative;
   z-index: 3;
   vertical-align: bottom;
-  padding: 15px 20px;
+  padding: 0px 20px;
   box-sizing: border-box;
   color: #fff;
   text-decoration: none;
@@ -274,7 +274,7 @@ body{
 }
 
 .accordion ul li div a * {
-  opacity: 0;
+  /* opacity: 0; */
   margin: 0;
   width: 100%;
   text-overflow: ellipsis;
